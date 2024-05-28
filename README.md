@@ -8,7 +8,8 @@
 <!--
 **alexxodavid/alexxodavid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<h3 align="center">I'm looking to land an apprenticeship and transition from the Medical field into the Technological "confederation"</h3>
+<h3 align="center">
+"Ready to trade scrubs for code and land a tech apprenticeship"/h3>
 
 🌱 I’m currently learning **HTML, CSS, & Javascript**
 
