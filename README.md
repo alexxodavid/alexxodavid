@@ -1,10 +1,8 @@
 <img align= "right" src= "https://visitor-badge.laobi.icu/badge?page_id=alexxodavid.alexxodavid" />
 
 <h1 align= "center" > 
-<a href = "https://git.io/typing-svg">
-  <img src ="https://readme-typing-svg.herokuapp.com/?
-  font=righteous&size=35&color=blue&center=true&vCenter=true&width=500&height&=70&duration=4000&lines=Sugar+Honey+Ice+Tea!;+It+Works+:+ummmm...+I'm+Alex+David;" />
-  </a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=hack&duration=4000&pause=500&random=false&width=435&lines=Sugar+Honey+Ice+Tea!!+It+works!!+;ummmm...I'm+Alex+David+%F0%9F%AB%A1;Welcome+to+the+beginning+of+my+story" alt="Typing SVG" />
+</a>
 
 </h1>
 <!--
