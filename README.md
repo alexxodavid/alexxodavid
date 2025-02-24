@@ -8,7 +8,7 @@
 <!--
 **alexxodavid/alexxodavid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<h3 align="center"> "An Aspiring Software Engineer" </h3>
+<h3 align="center"> "Turning ideas into code and ambition a reality-future Software Engineer in progress!" </h3>
 
 🌱 I’m currently learning **HTML, CSS, Javascript and C++**
 
