@@ -10,7 +10,7 @@
 -->
 <h3 align="center"> "Fueled by ambition and turning ideas into code; a future Software Engineer in progress!!" </h3>
 
-🌱 I’m currently learning **HTML, CSS, Javascript and C++**
+🌱 I’m currently learning **HTML, CSS, JavaScript and C++**
 
 <p align="left">
 </p>
