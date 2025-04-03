@@ -46,8 +46,3 @@
 📧 **Email:** [alexxodavid@gmail.com](mailto:alexxodavid@gmail.com)  
 💼 **LinkedIn:** [Alex David](https://www.linkedin.com/in/alexxodavid)  
 📂 **Portfolio:** **Pending 🚧**  
-
----
-
-🔥 **"Every line of code brings me closer to mastery."** 🚀  
-
