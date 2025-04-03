@@ -1,7 +1,4 @@
-
-<p align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=alexxodavid.alexxodavid" alt="Profile Visitor Badge">
-</p>
+![Profile Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=alexxodavid.alexxodavid)
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -9,19 +6,17 @@
   </a>
 </h1>
 
-
 <h3 align="center">"Fueled by ambition and turning ideas into code; a future Software Engineer in progress!!"</h3>
 
 ---
 
-### 🚀 About Me  
-🌱 I’m currently learning **HTML, CSS, JavaScript, and C++**.  
-🔨 Passionate about building, problem-solving, and continuous learning.  
+### 🚀 About Me
+🌱 I’m currently learning **HTML, CSS, JavaScript, and C++**. 
+🔨 Passionate about building, problem-solving, and continuous learning. 
 
 ---
 
-### 🛠 Languages & Tools  
-
+### 🛠 Languages & Tools
 <p align="center">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50">
@@ -39,10 +34,13 @@
 
 ---
 
-### 📫 Connect with Me  
-📧 **Email:** [alexxodavid@gmail.com](mailto:alexxodavid@gmail.com)  
-💼 **LinkedIn:** [Alex David](https://www.linkedin.com/in/alexxodavid)  
-📂 **Portfolio:** **Pending 🚧**  
+### 📫 Connect with Me
+📧 **Email:** [alexxodavid@gmail.com](mailto:alexxodavid@gmail.com) 
+💼 **LinkedIn:** [Alex David](https://www.linkedin.com/in/alexxodavid) 
+📂 **Portfolio:** **Pending 🚧**
+
+
+
 
 ---
 
