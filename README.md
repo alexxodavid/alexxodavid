@@ -40,7 +40,7 @@
 ---
 
 ### 📫 Connect with Me  
-📧 **Email:** [your-email@example.com](mailto:alexxodavid@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/yourprofile](www.linkedin.com/in/alexxodavid)  
-📂 **Portfolio:** [your-portfolio-link.com]_(pending...)_  
+📧 **Email:** [alexxodavid@gmail.com](mailto:alexxodavid@gmail.com)  
+💼 **LinkedIn:** [www.linkedin.com/in/alexxodavid](www.linkedin.com/in/alexxodavid)  
+📂 **Portfolio:** (pending...)_  
 
