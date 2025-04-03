@@ -41,6 +41,9 @@
 
 ### 📫 Connect with Me  
 📧 **Email:** [alexxodavid@gmail.com](mailto:alexxodavid@gmail.com)  
-💼 **LinkedIn:** [www.linkedin.com/in/alexxodavid](www.linkedin.com/in/alexxodavid)  
-📂 **Portfolio:** (pending...)_  
+💼 **LinkedIn:** [Alex David](https://www.linkedin.com/in/alexxodavid)  
+📂 **Portfolio:** **Pending 🚧**  
+
+---
+
 
