@@ -1,4 +1,4 @@
-<!-- Visitor Badge -->
+
 <p align="right">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=alexxodavid.alexxodavid" alt="Profile Visitor Badge">
 </p>
@@ -9,19 +9,19 @@
   </a>
 </h1>
 
-<!-- Short Bio -->
+
 <h3 align="center">"Fueled by ambition and turning ideas into code; a future Software Engineer in progress!!"</h3>
 
 ---
 
-### 🚀 About Me  
+### About Me  
 I’m a driven and adaptable individual with a wide range of personal interests and activities that fuel my passion for growth and innovation. I’ve always been curious about learning. I want to check off as many unknowns as I can before my death. Currently, I’m working toward finishing my Bachelor’s in Computer Science with a minor in Math(CUNY Queens College), as I aim to secure my first tech role. My love for coding is undeniable—I dedicate evenings after class to honing my skills and creating projects. It’s not just a career path for me; it’s a rooted passion that pushes me to grow constantly. I would like to leave you with a quote I made. Failure is one of my proudest accomplishments."When someone fails, it is followed by tumultuous growth and the potential to succeed intensifies. When I lose: I smile, I laugh, I embrace the negativity; for,  I only see an opportunity in the making."
 
-🌱 Yours Truly,
+Yours Truly,
 
 ---
 
-### 🛠 Languages & Tools  
+### Languages & Tools  
 
 <p align="center">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
@@ -43,7 +43,7 @@ I’m a driven and adaptable individual with a wide range of personal interests 
 
 ---
 
-### 📫 Connect with Me  
-📧 **Email:** [alexxodavid@gmail.com](mailto:alexxodavid@gmail.com)  
-💼 **LinkedIn:** [Alex David](https://www.linkedin.com/in/alexxodavid)  
-📂 **Portfolio:** **Pending 🚧**  
+### Connect with Me  
+**Email:** [alexxodavid@gmail.com](mailto:alexxodavid@gmail.com)  
+**LinkedIn:** [Alex David](https://www.linkedin.com/in/alexxodavid)  
+**Portfolio:** **Pending 🚧**  
