@@ -46,4 +46,4 @@ Yours Truly,
 ### Connect with Me  
 **Email:** [alexxodavid@gmail.com](mailto:alexxodavid@gmail.com)  
 **LinkedIn:** [Alex David](https://www.linkedin.com/in/alexxodavid)  
-**Portfolio:** [alexDavid.dev](https://www.alexDavid.dev.com)
+**Portfolio:** [alexDavid.dev](https://www.alexDavid.dev)
