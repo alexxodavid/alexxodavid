@@ -10,7 +10,7 @@
 </h1>
 
 
-<h3 align="center">"Fueled by ambition and turning ideas into code; a future Software Engineer in progress!!"</h3>
+<h3 align="center">"Fueled by ambition and turning ideas into code; a Software Engineer!!"</h3>
 
 ---
 
